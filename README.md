@@ -8,6 +8,7 @@ Contributors:
 
 ## Impact of the North Atlantic circulation on the climate in Europe
 ![North Atlantic circulation](./images/gulf_stream_visu.png)
+
 The North Atlantic circulation, particularly the Gulf Stream, plays a critical role in shaping Western and Central Europe's climate. This system transports warm water from the Gulf of Mexico to the North Atlantic, influencing the air temperature above it and subsequently affecting Europe's weather through westerly winds. When this water reaches near Iceland, it cools and sinks, flowing back towards the Gulf of Mexico.
 
 With ongoing climate change, there's a concern that this circulation might weaken, potentially leading to a paradoxical cooling effect in Europe amidst global warming. This could be influenced by factors like the melting of the Greenland ice sheet, which introduces fresh water into the North Atlantic, disrupting the water's density and circulation strength.
@@ -43,11 +44,13 @@ This approach significantly compressed the data, leaving us with about 1000 week
 ### Temperature
 ![Temperature Warm](./images/temperature_warm.png)
 ![Temperature Cold](./images/temperature_cold.png)
+
 Surface temperatures reflect seasonal changes more prominently, while deeper levels maintain steadier temperatures. Notably, the Gulf Stream ensures the warm region remains warmer than the cold region. Over the decades, the warm region's temperatures have risen, whereas the cold region exhibits a slight cooling trend.
 
 ### Salinity
 ![Salinity Warm](./images/salinity_warm.png)
 ![Salinity Cold](./images/salinity_cold.png)
+
 Salinity trends are more pronounced, with the warm region experiencing increased salinity in both shallow and deep waters. Conversely, the cold region's salinity decreases, possibly due to fresh water influx from melting ice. These trends suggest a weakening in the North Atlantic circulation.
 
 ### Velocity
